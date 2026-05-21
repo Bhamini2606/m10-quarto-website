@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi! My name is Bhamini Raghuram Pillai, and I am currently pursuing a Master’s degree in Digital Marketing at California State Polytechnic University, with an expected graduation year of 2026.\nI am passionate about marketing analytics, data-driven decision making, and digital strategy. My goal is to build a career where I can combine business knowledge with analytics and technology to create impactful marketing solutions.\n\n\nMy career interests include:\n\nMarketing Analytics\nDigital Marketing Strategy\nBusiness Intelligence\nData Visualization\nConsumer Insights\nMarketing Technology\n\n\n\n\nSome of the technical and analytical skills I have developed include:\n\nR Programming\nSQL\nTableau\nExcel\nQuarto\nData Visualization\nMarketing Analytics\nBigQuery\nShiny Applications\n\n\n\n\n\n\nMaster of Science in Digital Marketing\nExpected Graduation: 2026\n\n\n\n\nYou can also visit my professional portfolio website here:\nBhamini Portfolio Website\n\n\n\nThis website was created using Quarto as part of a course assignment focused on building and publishing professional analytical websites. The website includes dashboards, essays on Shiny applications, and discussions about Shinylive technology."
+  },
+  {
+    "objectID": "index.html#career-aspirations",
+    "href": "index.html#career-aspirations",
+    "title": "Home",
+    "section": "",
+    "text": "My career interests include:\n\nMarketing Analytics\nDigital Marketing Strategy\nBusiness Intelligence\nData Visualization\nConsumer Insights\nMarketing Technology"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "",
+    "text": "Some of the technical and analytical skills I have developed include:\n\nR Programming\nSQL\nTableau\nExcel\nQuarto\nData Visualization\nMarketing Analytics\nBigQuery\nShiny Applications"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "Master of Science in Digital Marketing\nExpected Graduation: 2026"
+  },
+  {
+    "objectID": "index.html#portfolio-website",
+    "href": "index.html#portfolio-website",
+    "title": "Home",
+    "section": "",
+    "text": "You can also visit my professional portfolio website here:\nBhamini Portfolio Website"
+  },
+  {
+    "objectID": "index.html#about-this-website",
+    "href": "index.html#about-this-website",
+    "title": "Home",
+    "section": "",
+    "text": "This website was created using Quarto as part of a course assignment focused on building and publishing professional analytical websites. The website includes dashboards, essays on Shiny applications, and discussions about Shinylive technology."
+  },
+  {
+    "objectID": "shiny-apps.html",
+    "href": "shiny-apps.html",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Shiny is an R package that allows users to build interactive web applications directly from R. It is widely used in data science, analytics, and business intelligence because it helps transform static analysis into interactive dashboards and applications.\n\n\nA Shiny app is a web application built using the R programming language. It allows users to interact with data visualizations, dashboards, and analytical tools through a web browser.\nShiny applications are commonly used for:\n\nInteractive dashboards\nData visualization\nBusiness reporting\nStatistical analysis\nMarketing analytics\nResearch projects\n\n\n\n\nA traditional Shiny app usually contains two major components:\n\n\nThe UI controls the appearance of the app. It includes:\n\nTitles\nLayouts\nCharts\nButtons\nMenus\nFilters\n\n\n\n\nThe server controls the logic and calculations behind the application. It processes user inputs and generates outputs such as charts and tables.\n\n\n\n\nSome major benefits of Shiny apps include:\n\nInteractive user experience\nReal-time data analysis\nEasy integration with R\nStrong visualization capabilities\nUseful for business intelligence dashboards\n\n\n\n\nAlthough Shiny is powerful, it also has some limitations:\n\nCan require server hosting\nPerformance issues with large datasets\nMore advanced apps require stronger programming skills\nDeployment can sometimes be complicated\n\n\n\n\nShiny apps are highly useful in marketing analytics because they allow businesses to monitor campaign performance, customer behavior, and website traffic interactively.\nFor example, companies can use Shiny apps to:\n\nTrack digital marketing campaigns\nAnalyze customer engagement\nVisualize sales trends\nMonitor conversion rates"
+  },
+  {
+    "objectID": "shiny-apps.html#what-is-a-shiny-app",
+    "href": "shiny-apps.html#what-is-a-shiny-app",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "A Shiny app is a web application built using the R programming language. It allows users to interact with data visualizations, dashboards, and analytical tools through a web browser.\nShiny applications are commonly used for:\n\nInteractive dashboards\nData visualization\nBusiness reporting\nStatistical analysis\nMarketing analytics\nResearch projects"
+  },
+  {
+    "objectID": "shiny-apps.html#components-of-a-shiny-app",
+    "href": "shiny-apps.html#components-of-a-shiny-app",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "A traditional Shiny app usually contains two major components:\n\n\nThe UI controls the appearance of the app. It includes:\n\nTitles\nLayouts\nCharts\nButtons\nMenus\nFilters\n\n\n\n\nThe server controls the logic and calculations behind the application. It processes user inputs and generates outputs such as charts and tables."
+  },
+  {
+    "objectID": "shiny-apps.html#advantages-of-shiny-apps",
+    "href": "shiny-apps.html#advantages-of-shiny-apps",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Some major benefits of Shiny apps include:\n\nInteractive user experience\nReal-time data analysis\nEasy integration with R\nStrong visualization capabilities\nUseful for business intelligence dashboards"
+  },
+  {
+    "objectID": "shiny-apps.html#limitations-of-shiny-apps",
+    "href": "shiny-apps.html#limitations-of-shiny-apps",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Although Shiny is powerful, it also has some limitations:\n\nCan require server hosting\nPerformance issues with large datasets\nMore advanced apps require stronger programming skills\nDeployment can sometimes be complicated"
+  },
+  {
+    "objectID": "shiny-apps.html#applications-in-marketing-analytics",
+    "href": "shiny-apps.html#applications-in-marketing-analytics",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Shiny apps are highly useful in marketing analytics because they allow businesses to monitor campaign performance, customer behavior, and website traffic interactively.\nFor example, companies can use Shiny apps to:\n\nTrack digital marketing campaigns\nAnalyze customer engagement\nVisualize sales trends\nMonitor conversion rates"
+  },
+  {
+    "objectID": "shinylive.html",
+    "href": "shinylive.html",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Shinylive is a modern technology that allows Shiny applications to run directly inside a web browser without requiring a separate R server. It is designed to make deployment simpler and more accessible.\nShinylive uses WebAssembly technology to run R entirely in the browser, making it possible to create serverless Shiny applications.\n\n\nTraditional Shiny applications require a server to process calculations and user interactions. In contrast, Shinylive allows the application to run completely on the client side inside the user’s browser.\nThis means users can interact with the application without connecting to a dedicated Shiny server.\n\n\n\n\n\nTraditional Shiny apps:\n\nRequire server hosting\nDepend on an active R session\nProcess calculations on the server\nOften require deployment platforms such as Shiny Server or shinyapps.io\n\n\n\n\nShinylive applications:\n\nRun directly in the browser\nDo not require server hosting\nUse WebAssembly technology\nAre easier to deploy as static websites\n\n\n\n\n\nSome major advantages include:\n\nEasier deployment\nNo server maintenance\nLower hosting costs\nFaster sharing of applications\nBetter portability for educational projects\n\n\n\n\nDespite its benefits, Shinylive also has limitations:\n\nLimited support for some R packages\nBrowser performance limitations\nLess suitable for large-scale enterprise applications\nCan struggle with very large datasets\n\n\n\n\nShinylive is especially useful for:\n\nEducational demonstrations\nLightweight dashboards\nPortfolio projects\nOnline tutorials\nInteractive learning materials\n\n\n\n\n\n\n\nFeature\nTraditional Shiny\nShinylive\n\n\n\n\nRequires Server\nYes\nNo\n\n\nDeployment Complexity\nHigher\nLower\n\n\nHosting Cost\nHigher\nLower\n\n\nBrowser-Based\nPartial\nFully\n\n\nScalability\nStrong\nModerate"
+  },
+  {
+    "objectID": "shinylive.html#what-is-shinylive",
+    "href": "shinylive.html#what-is-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Traditional Shiny applications require a server to process calculations and user interactions. In contrast, Shinylive allows the application to run completely on the client side inside the user’s browser.\nThis means users can interact with the application without connecting to a dedicated Shiny server."
+  },
+  {
+    "objectID": "shinylive.html#how-shinylive-differs-from-traditional-shiny-apps",
+    "href": "shinylive.html#how-shinylive-differs-from-traditional-shiny-apps",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Traditional Shiny apps:\n\nRequire server hosting\nDepend on an active R session\nProcess calculations on the server\nOften require deployment platforms such as Shiny Server or shinyapps.io\n\n\n\n\nShinylive applications:\n\nRun directly in the browser\nDo not require server hosting\nUse WebAssembly technology\nAre easier to deploy as static websites"
+  },
+  {
+    "objectID": "shinylive.html#advantages-of-shinylive",
+    "href": "shinylive.html#advantages-of-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Some major advantages include:\n\nEasier deployment\nNo server maintenance\nLower hosting costs\nFaster sharing of applications\nBetter portability for educational projects"
+  },
+  {
+    "objectID": "shinylive.html#limitations-of-shinylive",
+    "href": "shinylive.html#limitations-of-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Despite its benefits, Shinylive also has limitations:\n\nLimited support for some R packages\nBrowser performance limitations\nLess suitable for large-scale enterprise applications\nCan struggle with very large datasets"
+  },
+  {
+    "objectID": "shinylive.html#applications-of-shinylive",
+    "href": "shinylive.html#applications-of-shinylive",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Shinylive is especially useful for:\n\nEducational demonstrations\nLightweight dashboards\nPortfolio projects\nOnline tutorials\nInteractive learning materials"
+  },
+  {
+    "objectID": "shinylive.html#comparison-summary",
+    "href": "shinylive.html#comparison-summary",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "Feature\nTraditional Shiny\nShinylive\n\n\n\n\nRequires Server\nYes\nNo\n\n\nDeployment Complexity\nHigher\nLower\n\n\nHosting Cost\nHigher\nLower\n\n\nBrowser-Based\nPartial\nFully\n\n\nScalability\nStrong\nModerate"
+  }
+]

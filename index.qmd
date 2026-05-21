@@ -1,0 +1,51 @@
+---
+title: "Home"
+---
+
+# Welcome
+
+Hi! My name is **Bhamini Raghuram Pillai**, and I am currently pursuing a Master’s degree in Digital Marketing at California State Polytechnic University, with an expected graduation year of 2026.
+
+I am passionate about marketing analytics, data-driven decision making, and digital strategy. My goal is to build a career where I can combine business knowledge with analytics and technology to create impactful marketing solutions.
+
+## Career Aspirations
+
+My career interests include:
+
+-   Marketing Analytics
+-   Digital Marketing Strategy
+-   Business Intelligence
+-   Data Visualization
+-   Consumer Insights
+-   Marketing Technology
+
+## Skills
+
+Some of the technical and analytical skills I have developed include:
+
+-   R Programming
+-   SQL
+-   Tableau
+-   Excel
+-   Quarto
+-   Data Visualization
+-   Marketing Analytics
+-   BigQuery
+-   Shiny Applications
+
+## Education
+
+### California State Polytechnic University
+
+**Master of Science in Digital Marketing**\
+Expected Graduation: 2026
+
+## Portfolio Website
+
+You can also visit my professional portfolio website here:
+
+[Bhamini Portfolio Website](https://bhamini.netlify.app/)
+
+## About This Website
+
+This website was created using Quarto as part of a course assignment focused on building and publishing professional analytical websites. The website includes dashboards, essays on Shiny applications, and discussions about Shinylive technology.

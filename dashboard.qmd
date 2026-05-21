@@ -1,0 +1,104 @@
+---
+title: "Dashboard"
+format: 
+  dashboard:
+    orientation: rows
+---
+
+# Marketing Performance Dashboard
+
+This dashboard presents a simple overview of marketing campaign performance across different digital channels.
+
+## Row
+
+### Value Box
+
+```{r}
+#| echo: false
+
+library(bslib)
+
+value_box(
+  title = "Total Revenue",
+  value = "$236K",
+  theme = "primary"
+)
+```
+
+### Value Box
+
+```{r}
+#| echo: false
+
+library(bslib)
+
+value_box(
+  title = "Conversions",
+  value = "4,850",
+  theme = "success"
+)
+```
+
+### Value Box
+
+```{r}
+#| echo: false
+
+library(bslib)
+
+value_box(
+  title = "Marketing Spend",
+  value = "$75K",
+  theme = "warning"
+)
+```
+
+## Row
+
+### Revenue by Channel
+
+```{r}
+#| echo: false
+
+library(ggplot2)
+
+marketing_data <- data.frame(
+  Channel = c("Email", "Facebook", "Google", "Instagram", "LinkedIn"),
+  Revenue = c(28000, 45000, 61000, 52000, 47000)
+)
+
+ggplot(marketing_data, aes(x = Channel, y = Revenue)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Revenue by Marketing Channel",
+    x = "Channel",
+    y = "Revenue"
+  )
+```
+
+### Monthly Website Traffic
+
+```{r}
+#| echo: false
+
+traffic_data <- data.frame(
+  Month = c("Jan", "Feb", "Mar", "Apr", "May", "Jun"),
+  Visitors = c(1200, 1800, 2400, 3000, 3600, 4200)
+)
+
+ggplot(traffic_data, aes(x = Month, y = Visitors, group = 1)) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Monthly Website Traffic",
+    x = "Month",
+    y = "Visitors"
+  )
+```
+
+# Key Insights
+
+-   Google generated the highest revenue among all channels.
+-   Website traffic steadily increased over six months.
+-   Social media channels contributed significantly to conversions.
+-   Marketing performance improved consistently over time.
